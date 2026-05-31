@@ -36,48 +36,6 @@
 
 ---
 
-## 📱 Apps
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎮 3D Pinball Space Cadet
-
-<a href="https://apps.apple.com/us/developer/du-nguyen-viet/id1619725006">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-</a>
-
-A nostalgic **3D Pinball** experience rebuilt for modern iOS devices.  
-Relive the classic Windows game on your iPhone & iPad.
-
-**Platform:** iOS · iPad  
-**Tech:** Swift · UIKit
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Ms Paint
-
-<a href="https://apps.apple.com/us/developer/du-nguyen-viet/id1619725006">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.nhysoft.mspaint">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-
-A clean, simple **raster graphics editor** inspired by the iconic MS Paint.  
-Available on both iOS and Android.
-
-**Platform:** iOS · Android  
-**Tech:** Flutter · Dart
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
