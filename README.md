@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=nhysoft&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Crafting%20delightful%20apps%20for%20iOS%20%26%20Android&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRS41m_0GJ4GihvHKexmpMAtVKwWdZrY9E1Q&s" width="100%"/>
 
 </div>
 
