@@ -57,8 +57,6 @@
 
 <div align="center">
 
-[![App Store](https://img.shields.io/badge/App_Store_Developer-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/du-nguyen-viet/id1619725006)
-[![Google Play](https://img.shields.io/badge/Google_Play_Developer-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nhysoft.mspaint&hl=vi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nhysoft)
 
 </div>
